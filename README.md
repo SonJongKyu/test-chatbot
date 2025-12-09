@@ -93,7 +93,7 @@ sudo apt install -y python3.12-venv python3-pip curl wget git vim tree net-tools
 cd ~
 
 # GitHub에서 프로젝트 클론
-git clone https://github.com/SonJongKyu/RAG_Chatbot.git
+git clone https://github.com/SonJongKyu/test-chatbot.git
 cd RAG_Chatbot
 ```
 
